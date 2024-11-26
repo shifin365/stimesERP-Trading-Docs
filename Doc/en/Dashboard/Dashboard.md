@@ -80,7 +80,7 @@ Total sales amount
 
 <img src="../images/Sales by Salesperson.png" alt="Sales by Salesperson" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-## How to customize Dashboard (Edit Mode)
+## How to Customize Dashboard (Edit Mode)
 
 The dashboard is fully customizable. Administrators can make adjustments by entering Edit Mode, where they can:
 
