@@ -1,0 +1,478 @@
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "path": "getting-started.md"
+    },
+    {
+      "text": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "text": "Administration",
+      "path": "administration/administration.md",
+      "items": [
+        {
+          "text": "Basic Setup",
+          "path": "administration/basic-setup/company.md",
+          "items":[
+            {
+              "text":"Company",
+              "path":"administration/basic-setup/company.md"
+            },
+            {
+              "text":"Sponsorship Company",
+              "path":"administration/basic-setup/sponsorship-company.md"
+            },
+            {
+              "text":"User",
+              "path":"administration/basic-setup/user.md"
+            },
+            {
+              "text":"User Permission",
+              "path":"administration/basic-setup/user-permission.md"
+            },
+            {
+              "text":"Bank",
+              "path":"administration/basic-setup/bank.md"
+            },
+            {
+              "text":"Financial Period",
+              "path":"administration/basic-setup/financial-period.md"
+            },
+            {
+              "text":"Document Sequence",
+              "path":"administration/basic-setup/document-sequence.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "administration/activity/activity.md",
+          "items": [ 
+            {
+              "text": "Finalized Quotation",
+              "path": "administration/activity/finalized-quotation.md"
+            },
+            {
+              "text": "Workflow",
+              "path": "administration/activity/workflow.md"
+            }
+          ]
+        },
+        {
+          "text": "Report",
+          "path": "administration/report/activity-report.md",
+          "items": [
+            {
+              "text": "Activity Report",
+              "path": "administration/report/activity-report.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "administration/settings/settings.md"
+        }
+      ]
+    },
+    {
+      "text": "HR",
+      "path": "hr/hr.md",
+      "items": [
+        {
+          "text": "Basic Setup",
+          "path": "hr/basic-Setup/Site-Staff.md",
+          "items": [
+            {
+              "text": "Site Staff",
+              "path": "hr/basic-Setup/Site-Staff.md"
+            },
+            {
+              "text": "Staff",
+              "path": "hr/basic-Setup/Staff.md"
+            },
+            {
+              "text":"Staff Category",
+              "path":"hr/basic-Setup/Staff-category.md"
+            },
+            {
+              "text":"Staff Approval",
+              "path":"hr/basic-Setup/Staff-approval.md"
+            },
+            {
+              "text":"Accommodation Type",
+              "path":"hr/basic-Setup/Accommodation-type.md"
+            },
+            {
+              "text":"Blood Group",
+              "path":"hr/basic-Setup/bloodgroup.md"
+            },
+            {
+              "text":"Clearance Elements",
+              "path":"hr/basic-Setup/Clearence-elements.md"
+            },
+            {
+              "text":"Country",
+              "path":"hr/basic-Setup/country.md"
+            },
+            {
+              "text":"Currency",
+              "path":"hr/basic-Setup/currency.md"
+            },
+            {
+              "text":"Department",
+              "path":"hr/basic-Setup/department.md"
+            },
+            {
+              "text":"Department Head",
+              "path":"hr/basic-Setup/department-head.md"
+            },
+            {
+              "text":"Designation",
+              "path":"hr/basic-Setup/designation.md"
+            },
+            {
+              "text":"District",
+              "path":"hr/basic-Setup/district.md"
+            },
+            {
+              "text":"Visa Cost",
+              "path":"hr/basic-Setup/visa-cost.md"
+            },
+            {
+              "text":"Document Type",
+              "path":"hr/basic-Setup/Document-type.md"
+            },
+            {
+              "text":"Emirates",
+              "path":"hr/basic-Setup/emirates.md"
+            },
+            {
+              "text":"Holidays",
+              "path":"hr/basic-Setup/Holiday.md"
+            },
+            {
+              "text":"Holiday Type",
+              "path": "hr/basic-Setup/holiday-type.md"
+            },
+            {
+              "text":"Insurance Card Type",
+              "path":"hr/basic-Setup/Insurance-card-type.md"
+            },
+            {
+              "text":"Leave Opening Balance",
+              "path":"hr/basic-Setup/Leave-opening-balance.md"
+            },
+            {
+              "text":"Leave Status Definition",
+              "path":"hr/basic-Setup/Leave-status-definition.md"
+            },
+            {
+              "text":"Working Status Types",
+              "path":"hr/basic-Setup/Working-status-Types.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Business Development",
+      "path": "Business Development/Basic/Client.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Business Development/Basic/Client.md",
+          "items": [
+            {
+              "text": "Client",
+              "path": "Business Development/Basic/Client.md"
+            },
+            {
+              "text": "Project",
+              "path": "Business Development/Basic/Project.md"
+            },
+            {
+              "text": "Rate Contract Template",
+              "path": "Business Development/Basic/Rate Contract Template.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Business Development/Activity/Sales Demand Requests.md",
+          "items": [
+            {
+              "text": "Sales Demand Requests",
+              "path": "Business Development/Activity/Sales Demand Requests.md"
+            },
+            {
+              "text": "Sales Demobilization",
+              "path": "Business Development/Activity/Sales Demobilization.md"
+            }
+          ]
+        },
+        {
+          "text": "Report",
+          "path": "Business Development/Report/Client Report.md",
+          "items": [
+            {
+              "text": "Client Report",
+              "path": "Business Development/Report/Client Report.md"
+            },
+            {
+              "text": "Project Report",
+              "path": "Business Development/Report/Project Report.md"
+            },
+            {
+              "text": "Idle Employee Report",
+              "path": "Business Development/Report/Idle Employee Report.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Operation",
+      "path": "Operation/Basic/Demobilization Reason.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Operation/Basic/Demobilization Reason.md",
+          "items": [
+            {
+              "text": "Demobilization Reason",
+              "path": "Operation/Basic/Demobilization Reason.md"
+            },
+            {
+              "text": "NOC Report Type",
+              "path": "Operation/Basic/NOC Report Type.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Operation/Activity/Operations Demand Request.md",
+          "items": [
+            {
+              "text": "Operations Demand Request",
+              "path": "Operation/Activity/Operations Demand Request.md"
+            },
+            {
+              "text": "Demand Request Allocation",
+              "path": "Operation/Activity/Demand Request Allocation.md"
+            },
+            {
+              "text": "No Objection Letter",
+              "path": "Operation/Activity/NOC List.md"
+            },
+            {
+              "text": "Site Mobilization Status",
+              "path": "Operation/Activity/Site Mobilization Status.md"
+            },
+            {
+              "text": "NOC Mobilization",
+              "path": "Operation/Activity/NOC Mobilization.md"
+            },
+            {
+              "text": "Site Demobilization Request",
+              "path": "Operation/Activity/Site Demobilization Request.md"
+            },
+            {
+              "text": "Operation Demobilization",
+              "path": "Operation/Activity/Operations Demobilization Request.md"
+            },
+            {
+              "text": "Demobilization",
+              "path": "Operation/Activity/Demobilization.md"
+            },
+            {
+              "text": "Project Mobilization",
+              "path": "Operation/Activity/Project Mobilization.md"
+            },
+            {
+              "text": "Employee Transfer",
+              "path": "Operation/Activity/Employee Transfer.md"
+            },
+            {
+              "text": "Employee Wise Mobilization",
+              "path": "Operation/Activity/Employee Wise Mobilization.md"
+            },
+            {
+              "text": "Project Transfer",
+              "path": "Operation/Activity/Project Transfer.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Billing",
+      "path": "billing/basic/SOP.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "billing/basic/SOP.md",
+          "items": [
+            {
+              "text": "SOP",
+              "path": "billing/basic/SOP.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "billing/activity/client-timesheet.md",
+          "items": [
+            {
+              "text": "Client TimeSheet",
+              "path": "billing/activity/client-timesheet.md"
+            },
+            {
+              "text": "Client Invoice",
+              "path": "billing/activity/client-invoice.md"
+            },
+            {
+              "text": "Supplier Invoice",
+              "path": "billing/activity/supplier-invoice.md"
+            },
+            {
+              "text": "Manual Client TimeSheet",
+              "path": "billing/activity/manual-client-timesheet.md"
+            },
+            {
+              "text": "Direct Client Invoice",
+              "path": "billing/activity/direct-client-invoice.md"
+            },
+            {
+              "text": "Direct Supplier Invoice",
+              "path": "billing/activity/direct-supplier-invoice.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Payroll",
+      "path": "Payroll/Basic/Salary Components.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Payroll/Basic/Salary Components.md",
+          "items": [
+            {
+              "text": "Salary Components",
+              "path": "Payroll/Basic/Salary Components.md"
+            },
+            {
+              "text": "Salary Structures",
+              "path": "Payroll/Basic/Salary Structures.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Payroll/Activity/Supplier Time Card.md",
+          "items": [
+            {
+              "text": "Supplier Time Card",
+              "path": "Payroll/Activity/Supplier Time Card.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "CRM",
+      "path": "CRM/crm dashboard.md",
+      "items": [
+        {
+          "text": "Dashboard",
+          "path": "CRM/crm dashboard.md"
+        }
+      ]
+    },
+    {
+      "text": "Accounts",
+      "path": "accounts/basic/Cost Center.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "accounts/basic/Cost Center.md",
+          "items": [
+            {
+              "text": "Cost Center",
+              "path": "accounts/basic/Cost Center.md"
+            },
+            {
+              "text": "Chart of Accounts",
+              "path": "accounts/basic/Chart of Accounts.md"
+            },
+            {
+              "text": "Documents",
+              "path": "accounts/basic/Documents.md"
+            },
+            {
+              "text": "Opening Balance",
+              "path": "accounts/basic/Opening Balance.md"
+            },
+            {
+              "text": "Opening Invoice",
+              "path": "accounts/basic/Opening Invoice.md"
+            },
+            {
+              "text": "Nature of Expenses",
+              "path": "accounts/basic/Nature of Expenses.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "accounts/activity/Journal Entry.md",
+          "items": [
+            {
+              "text": "Journal Entry",
+              "path": "accounts/activity/Journal Entry.md"
+            },
+            {
+              "text": "Receipt",
+              "path": "accounts/activity/Receipt.md"
+            },
+            {
+              "text": "Payments",
+              "path": "accounts/activity/Payments.md"
+            },
+            {
+              "text": "Petty Cash",
+              "path": "accounts/activity/Petty Cash.md"
+            },
+            {
+              "text": "Employee Payments",
+              "path": "accounts/activity/Employee Payments.md"
+            }
+          ]
+        },
+        {
+          "text": "Reports",
+          "path": "accounts/reports/Trial Balance.md",
+          "items": [
+            {
+              "text": "Trial Balance",
+              "path": "accounts/reports/Trial Balance.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "accounts/settings/Account Settings.md",
+          "items": [
+            {
+              "text": "Account Settings",
+              "path": "accounts/settings/Account Settings.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
