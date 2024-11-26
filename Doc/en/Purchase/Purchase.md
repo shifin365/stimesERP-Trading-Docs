@@ -66,5 +66,3 @@ Monitor payment status and amounts for all purchases.
 Summarize details of all purchase returns.
 
 The Purchase Module is designed to streamline procurement processes, ensuring accurate records, enhanced supplier management, and insightful analytics for informed decision-making.
-
-[text](Purchase.md)
