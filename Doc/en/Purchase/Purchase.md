@@ -28,7 +28,7 @@ Clicking the Purchase button in the left-hand menu opens the Purchase Module, wh
 
 <h3>Sub-Modules</h3>
 
-### [Direct Purchase](direct_purchase.md)
+### [Direct Purchase](<direct purchase.md>)
 Record purchases directly without generating a purchase order.
 
 ### [Purchase Order](purchase_order.md)
