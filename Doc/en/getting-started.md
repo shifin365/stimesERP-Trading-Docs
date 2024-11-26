@@ -5,7 +5,7 @@
 StimesERP software is globally accessible with user credentials. The login page allows users to enter their username and password.
 Please enter your username and password here.
 
-<img src="images/login.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+<img src="images/login.png" alt="login" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ## Accessing the Modules 
 
@@ -13,7 +13,7 @@ After logging into the application, users can view a list of modules in the left
 
 >       If you cannot see the modules in the left sidebar, please contact your system administrator to assign the appropriate modules to your account.
 
-<img src="images/modules available.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+<img src="images/modules available.png" alt="modules available" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ## Top Bar Overview
 
@@ -26,9 +26,8 @@ After logging into the application, users can view a list of modules in the left
         <li><strong>Profile Icon:</strong> Access your user profile, manage linked accounts, delegate authority, and update profile information.</li>
     </ul>
 </div>
-<div>
 
-<img src="images/top bar icons.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+<img src="images/top bar icons.png" alt="top bar icons" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ## Organization Unit (OU) Switching
 
