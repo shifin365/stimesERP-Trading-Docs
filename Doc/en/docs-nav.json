@@ -19,6 +19,16 @@
       ]
     },
     {
+      "text": "Purchase",
+      "path": "Purchase/Purchase.md",
+      "items": [
+        {
+          "text": "Organization Units",
+          "path": "administration/Organization Units.md"
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/Chart of accounts.md",
       "items": [
