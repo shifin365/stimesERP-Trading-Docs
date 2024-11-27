@@ -23,8 +23,8 @@
       "path": "Purchase/Purchase.md",
       "items": [
         {
-          "text": "Organization Units",
-          "path": "administration/Organization Units.md"
+          "text": "Direct Purchase",
+          "path": "Purchase/direct purchase.md"
         }
       ]
     },
