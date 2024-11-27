@@ -31,38 +31,38 @@ Clicking the Purchase button in the left-hand menu opens the Purchase Module, wh
 ### [Direct Purchase](<direct purchase.md>)
 Record purchases directly without generating a purchase order.
 
-### [Purchase Order](purchase_order.md)
+### [Purchase Order](<purchase_order.md>)
 Create and manage purchase orders for goods or services.
 
-### [GRN (Goods Receipt Note)](grn.md)
+### [GRN (Goods Receipt Note)](<grn.md>)
 Record and confirm the receipt of goods against purchase orders.
 
-### [Purchase Invoice](purchase_invoice.md)
+### [Purchase Invoice](<purchase_invoice.md>)
 Generate and manage invoices for completed purchases.
 
-### [Landed Cost Voucher](landed_cost_voucher.md)
+### [Landed Cost Voucher](<landed_cost_voucher.md>)
 Allocate additional costs to goods received to reflect accurate landed costs.
 
-### [Purchase Return to Supplier](purchase_return_to_supplier.md)
+### [Purchase Return to Supplier](<purchase_return_to_supplier.md>)
 Process and track the return of goods to suppliers efficiently.
 
 <h3>Reports</h3>
 
 The Purchase Module includes comprehensive reporting tools to analyze procurement data:
 
-### [Purchase Analytics](purchase_analytics.md)
+### [Purchase Analytics](<purchase_analytics.md>)
 Visualize trends and performance in purchasing activities.
 
-### [Purchase by Item](purchase_by_item.md)
+### [Purchase by Item](<purchase_by_item.md>)
 Analyze purchases at the item level for detailed insights.
 
-### [Purchase by Supplier](purchase_by_supplier.md)
+### [Purchase by Supplier](<purchase_by_supplier.md>)
 View purchase data categorized by supplier.
 
-### [Purchase and Payments](purchase_and_payments.md)
+### [Purchase and Payments](<purchase_and_payments.md>)
 Monitor payment status and amounts for all purchases.
 
-### [Purchase Return Summary](purchase_return_summary.md)
+### [Purchase Return Summary](<purchase_return_summary.md>)
 Summarize details of all purchase returns.
 
 The Purchase Module is designed to streamline procurement processes, ensuring accurate records, enhanced supplier management, and insightful analytics for informed decision-making.
