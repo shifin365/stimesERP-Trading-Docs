@@ -208,7 +208,6 @@ After entering all details, click Save to complete the purchase. Upon saving a P
         <li><strong>Print:</strong> Print the purchase record.</li>
         <li><strong>Download:</strong> Export the document.</li>
         <li><strong>Download Without Header and Footer:</strong> Export a clean version.</li>
-        <li><strong>Go To > Provisional Account Ledger:</strong> View account details.</li>
     </ul>
 </div>
 
