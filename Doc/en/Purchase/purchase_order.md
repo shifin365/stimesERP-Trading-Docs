@@ -68,7 +68,7 @@ Specify the delivery date for the items.
 
 Link the purchase to a project. Configure projects here: [Set Projects](<direct purchase.md>)
 
-<img src="../images/field in purchase order.png" alt="field in purchase order" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+<img src="../images/field in purchase order.png" alt="field in purchase order" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### Item Selection
 
