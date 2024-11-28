@@ -25,6 +25,10 @@
         {
           "text": "Direct Purchase",
           "path": "Purchase/direct_purchase.md"
+        },
+        {
+          "text": "Purchase Order",
+          "path": "Purchase/purchase_order.md"
         }
       ]
     },

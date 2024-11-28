@@ -14,6 +14,10 @@ The Direct Purchase feature allows businesses to directly record procurement tra
 
 <img src="../images/direct purchase.png" alt="direct purchase" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
+## Export to Excel
+
+You can export Purchase Orders from the dashboard into an Excel file for easy tracking and reporting.
+
 ## Filtering Direct Purchases
 
 The Direct Purchase Dashboard includes advanced filtering options for easier management of records. These filters are:
