@@ -48,7 +48,7 @@ When you click Create New, a form opens for entering purchase details. Below are
 
 ### Document Number Series
 
-Configure the series through Document Series Settings. [Set Document Series](<direct purchase.md>)
+Configure the series through Document Series Settings. [Set Document Series](direct purchase.md)
 
 <img src="../images/document series in direct purchase.png" alt="document series in direct purchase" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 
