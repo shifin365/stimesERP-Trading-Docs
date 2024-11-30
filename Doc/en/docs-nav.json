@@ -41,6 +41,10 @@
         {
           "text": "Purchase Invoice",
           "path": "Purchase/purchase invoice.md"
+        },
+        {
+          "text": "Purchase Return",
+          "path": "Purchase/purchase return.md"
         }
       ]
     },
