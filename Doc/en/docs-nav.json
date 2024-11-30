@@ -35,6 +35,10 @@
           "path": "Purchase/GRN.md"
         },
         {
+          "text": "Landed Cost Voucher",
+          "path": "Purchase/landed cost voucher.md"
+        },
+        {
           "text": "Purchase Invoice",
           "path": "Purchase/purchase invoice.md"
         }
