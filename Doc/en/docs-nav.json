@@ -29,6 +29,10 @@
         {
           "text": "Purchase Order",
           "path": "Purchase/purchase_order.md"
+        },
+        {
+          "text": "GRN",
+          "path": "Purchase/GRN.md"
         }
       ]
     },
