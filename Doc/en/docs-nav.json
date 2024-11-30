@@ -33,6 +33,10 @@
         {
           "text": "GRN",
           "path": "Purchase/GRN.md"
+        },
+        {
+          "text": "Purchase Invoice",
+          "path": "Purchase/purchase invoice.md"
         }
       ]
     },
