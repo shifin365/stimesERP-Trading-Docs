@@ -49,16 +49,16 @@
         {
           "text": "Supplier",
           "path": "Purchase/Suppliers.md"
-        }
-      ]
-    },
-    {
-      "text": "Reports",
-      "path": "Purchase/Reports/Purchase Analytics.md",
-      "items": [
+        },
         {
-          "text": "Purchase Analytics",
-          "path": "Purchase/Reports/Purchase Analytics.md"
+          "text": "Reports",
+          "path": "Purchase/Reports/Purchase Analytics.md",
+          "items": [
+            {
+              "text": "Purchase Analytics",
+              "path": "Purchase/Reports/Purchase Analytics.md"
+            }
+          ]
         }
       ]
     },
