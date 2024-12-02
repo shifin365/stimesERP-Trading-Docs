@@ -37,10 +37,6 @@ The Purchase Analytics interface will open, allowing you to generate customized 
 
 <img src="../../images/purchase analytics Report by Supplier Additional Categorization.png" alt="Additional Categorization" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-#### Exporting Data:
-
-Once the report is generated, click the Export to Excel button to download the data as an Excel file for further analysis.
-
 ### Report by Item
 
 #### Steps to Generate:
@@ -63,6 +59,7 @@ Once the report is generated, click the Export to Excel button to download the d
     </ul>
 </div>
 
-#### Exporting Data:
+## Exporting Data
 
-Click the Export to Excel button to download item-specific purchase data.
+Once you have generated the desired report, you can export the data to an Excel file for further analysis or sharing.<br>
+The export option is available for all types of reports, whether categorized by supplier or item.
