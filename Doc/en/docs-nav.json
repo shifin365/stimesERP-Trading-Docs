@@ -57,6 +57,10 @@
             {
               "text": "Purchase Analytics",
               "path": "Purchase/Reports/Purchase Analytics.md"
+            },
+            {
+              "text": "Purchase By Item",
+              "path": "Purchase/Reports/Purchase By Item.md"
             }
           ]
         }
