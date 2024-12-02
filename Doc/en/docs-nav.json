@@ -69,6 +69,10 @@
             {
               "text": "Purchase and Payments",
               "path": "Purchase/Reports/Purchase and Payments.md"
+            },
+            {
+              "text": "Purchase Return Summary",
+              "path": "Purchase/Reports/Purchase Return Summary.md"
             }
           ]
         }
