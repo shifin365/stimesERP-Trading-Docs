@@ -61,6 +61,10 @@
             {
               "text": "Purchase By Item",
               "path": "Purchase/Reports/Purchase By Item.md"
+            },
+            {
+              "text": "Purchase By Supplier",
+              "path": "Purchase/Reports/Purchase By Supplier.md"
             }
           ]
         }

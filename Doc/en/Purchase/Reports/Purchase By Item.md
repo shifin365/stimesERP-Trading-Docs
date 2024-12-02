@@ -60,7 +60,7 @@ The Purchase By Item report interface will appear with options for customization
 
 ## Exporting Data
 
-After generating the desired report:
+### After generating the desired report:
 
 <div style="text-align:left;">
     <ul>
