@@ -53,6 +53,16 @@
       ]
     },
     {
+      "text": "Reports",
+      "path": "Purchase/Reports/Purchase Analytics.md",
+      "items": [
+        {
+          "text": "Purchase Analytics",
+          "path": "Purchase/Reports/Purchase Analytics.md"
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/Chart of accounts.md",
       "items": [
