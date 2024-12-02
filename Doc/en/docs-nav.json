@@ -45,6 +45,10 @@
         {
           "text": "Purchase Return",
           "path": "Purchase/purchase return.md"
+        },
+        {
+          "text": "Supplier",
+          "path": "Purchase/Suppliers.md"
         }
       ]
     },
