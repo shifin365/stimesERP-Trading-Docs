@@ -79,6 +79,16 @@
       ]
     },
     {
+      "text": "Sale",
+      "path": "Sale/Direct Sale.md",
+      "items": [
+        {
+          "text": "Direct Sale",
+          "path": "Sale/Direct Sale.md"
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/Chart of accounts.md",
       "items": [
