@@ -85,6 +85,14 @@
         {
           "text": "Direct Sale",
           "path": "Sale/Direct Sale.md"
+        },
+        {
+          "text": "Sales Quotation",
+          "path": "Sale/Sales Quotation.md"
+        },
+        {
+          "text": "Sales Order",
+          "path": "Sale/Sales Order.md"
         }
       ]
     },
