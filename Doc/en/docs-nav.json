@@ -93,6 +93,22 @@
         {
           "text": "Sales Order",
           "path": "Sale/Sales Order.md"
+        },
+        {
+          "text": "Delivery Note",
+          "path": "Sale/Delivery Note.md"
+        },
+        {
+          "text": "Sales Invoice",
+          "path": "Sale/Sales Invoice.md"
+        },
+        {
+          "text": "Sales Return",
+          "path": "Sale/Sales Return.md"
+        },
+        {
+          "text": "Customer",
+          "path": "Sale/Customer.md"
         }
       ]
     },
