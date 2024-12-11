@@ -38,8 +38,8 @@ You'll see the Customer Dashboard, which includes:
   - **Individual**: Standard fields are required.
 
 <div style="display: flex; gap: 10px;">
-  <img src="../images/business type customer dahboard.png" alt="Business Type Customer" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
-  <img src="../images/individual type customer dahboard.png" alt="Individual Type Customer" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
+  <img src="../images/business type customer dahboard.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../images/individual type customer dahboard.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 ---
@@ -65,7 +65,7 @@ You'll see the Customer Dashboard, which includes:
 - **Is Default**: Mark the customer as default.
 - **Block After Exceeding Credit Limit**: Enable to restrict transactions beyond the limit.
 
-<img src="../images/checkbox in customer.png" alt="Checkbox in Customer" style="border-radius: 10px; width: 70%; height: auto; border: 1px solid #333;">
+<img src="../images/checkbox in customer.png" alt="checkbox in customer" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ---
 
@@ -79,8 +79,8 @@ You'll see the Customer Dashboard, which includes:
    - **Tax Exempt**: Provide a description for the exemption.
 
 <div style="display: flex; gap: 10px;">
-  <img src="../images/taxable customer creation.png" alt="Taxable Customer" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
-  <img src="../images/tax exempt customer.png" alt="Tax Exempt Customer" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
+  <img src="../images/taxable customer creation.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../images/tax exempt customer.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 ---
@@ -92,8 +92,8 @@ You'll see the Customer Dashboard, which includes:
 3. Fill in the details and save.
 
 <div style="display: flex; gap: 10px;">
-  <img src="../images/add address button.png" alt="Add Address Button" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
-  <img src="../images/address adding for customer creation.png" alt="Adding Address" style="width: 48%; border-radius: 10px; border: 1px solid #333;">
+  <img src="../images/add address button.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../images/address adding for customer creation.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 ---
