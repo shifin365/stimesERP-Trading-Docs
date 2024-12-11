@@ -1,76 +1,80 @@
 # Purchase Invoice
 
-A Purchase Invoice is a document that records the supplier's bill for goods or services purchased. It serves as the basis for payment processing and is critical for accounting and inventory management.
+A **Purchase Invoice** is a document that records the supplier's bill for goods or services purchased. It serves as the basis for payment processing and is essential for both accounting and inventory management. Let's make handling your purchase invoices simple and efficient!
+
+---
 
 ## Accessing Purchase Invoice
 
->     Navigate to Purchase > Purchase Invoice to access the Purchase Invoice dashboard.
+### Step 1: Navigate to **Purchase > Purchase Invoice**
+
+> This opens the **Purchase Invoice Dashboard**, where you can manage all invoices, from Draft to Approved.
 
 <img src="../images/purchase invoice dashboard.png" alt="purchase invoice dashboard" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
+---
+
 ## Dashboard Features
 
-<h3>Filters</h3>
+### **Filters**
 
-You can filter Purchase Invoices using
+Use the following filters to search and narrow down purchase invoices:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Search</strong></li>
-        <li><strong>Document Number</strong></li>
-        <li><strong>Min-Max Book Date</strong></li>
-        <li><strong>Min-Max Due Date</strong></li>
-        <li><strong>Reference Number</strong></li>
-        <li><strong>Document Status</strong></li>
-        <li><strong>Show Withdrawn Entry</strong></li>
-    </ul>
-</div>
+- **Search**
+- **Document Number**
+- **Min-Max Book Date**
+- **Min-Max Due Date**
+- **Reference Number**
+- **Document Status**
+- **Show Withdrawn Entry**
 
 <img src="../images/purchase invoice filter.png" alt="purchase invoice filter" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-<h3>Export to Excel</h3>
+---
 
-Export all invoices (Draft, Approved, or Withdrawn) to Excel using the Export option.
+### **Export to Excel**
+
+For quick reporting and analysis, click **Export to Excel** to download all purchase invoice data (Draft, Approved, or Withdrawn).
+
+---
 
 ## Creating a New Purchase Invoice
 
-Click Create New: Use the Create New button in the top-right corner of the dashboard.
+### Step 1: Click **Create New**
+
+This will open the Purchase Invoice form where you can input all the necessary details.
 
 <img src="../images/create new purchase invoice.png" alt="create new purchase invoice" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Document Number Series
+---
 
-Configure the series through Document Series Settings. [Set Document Series](<../Purchase/direct_purchase.md>)
+### **1. Document Information**
 
-### Date
-
-Select the date of the purchase.
-
-### Payment Term & Due Date
-
-Set the payment term and select the due date.
-
-### Price Type
-
-Choose the pricing type (e.g., Wholesale, Retail).
+| Field              | Description                                              |
+|--------------------|----------------------------------------------------------|
+| **Document Number Series** | Auto-generated. Configure via [Document Series Settings](<../Purchase/direct_purchase.md>). |
+| **Date**           | Select the date of the purchase invoice.                 |
+| **Payment Term & Due Date**   | Choose the payment term for this invoice also select the payment due date               |
+| **Price Type**       | Choose the pricing type (e.g., Wholesale, Retail).                             |
 
 <img src="../images/purchase invoice fields.png" alt="purchase invoice fields" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Supplier
+---
 
-Choose the supplier from the dropdown. If the supplier has associated Purchase Orders, an Order button will appear. Clicking the button will display all orders linked to the supplier. Selecting an order auto-populates its items and details into the invoice. Add suppliers via the Supplier Menu. [Add Suppliers](<direct purchase.md>) 
+### **2. Supplier Information**
 
-#### Invoice Based on Previous Documents
+| Field              | Description                                               |
+|--------------------|-----------------------------------------------------------|
+| **Supplier**       | Select the supplier from the dropdown. If the supplier has associated Purchase Orders, an Order button will appear. Clicking the button will display all orders linked to the supplier. Selecting an order auto-populates its items and details into the invoice. Add new suppliers via [Supplier Menu](<direct%20purchase.md>). |
+| **Order Button**   | If the supplier has associated Purchase Orders, click **Order** to auto-populate items into the invoice. |
 
-You can create a Purchase Invoice based on:
+#### **Invoice Based on Previous Documents**
 
-<div style="text-align:left;">
-    <ul>
-        <li>Purchase Order</li>
-        <li>Goods Receipt Note (GRN)</li>
-        <li>Landed Cost Voucher</li>
-    </ul>
-</div>
+You can create a purchase invoice based on:
+
+- Purchase Order
+- Goods Receipt Note (GRN)
+- Landed Cost Voucher
 
 <div style="display: flex; gap: 10px;">
   <img src="../images/purchase invoice based on order,grn,lcv.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
@@ -78,56 +82,74 @@ You can create a Purchase Invoice based on:
   <img src="../images/purchase invoice based on grn items.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
-Selecting one of these will load all relevant data for that supplier.
+---
 
-#### Supplier Tax Settings
+### **3. Item and Pricing Details**
 
-If the supplier has tax settings (e.g., UAE VAT, India GST), a Tax Column will appear on the item side. Select the tax type from the dropdown.The total amount will adjust based on the subtotal and tax automatically.
+| Field               | Description                                                    |
+|---------------------|---------------------------------------------------------------|
+| **Price Type**      | Choose the pricing type (e.g., Wholesale, Retail).            |
+| **Quantity**        | Enter the number of items purchased.                          |
+| **Unit Price**      | Specify the price per unit.                                    |
+| **Tax Settings**    | Select tax settings for the supplier (e.g., UAE VAT, India GST). |
 
-### Project
+---
 
-Link the purchase to a project. Configure projects here: [Set Projects](<direct purchase.md>)
+### **4. Project Information**
 
-### Additional Fields:
+| Field              | Description                                               |
+|--------------------|-----------------------------------------------------------|
+| **Project**        | Link the purchase to a project (if applicable). Configure projects via [Project Settings](<direct%20purchase.md>). |
 
-Reference Number: Add a unique identifier for the invoice.
-Statement Reference: Add any relevant remarks or notes.
+---
 
-### Save and Generate PDF
+### **5. Additional Details**
+
+| Field               | Description                                        |
+|---------------------|----------------------------------------------------|
+| **Reference Number**| Add a unique identifier for the invoice.           |
+| **Statement Reference** | Provide any additional notes or references.   |
+
+---
+
+### **6. Save and Generate PDF**
+
+After entering all the details, click **Save** to create the purchase invoice. You can then generate a PDF version of the invoice.
 
 <img src="../images/purchase invoice print.png" alt="purchase invoice print" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-Save the invoice to generate its PDF.
+---
 
-### Post-Save Options
+## Post-Save Options
 
-Once the Purchase Invoice is saved, you have the following options:
+Once saved, you have the following options:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Back:</strong> Return to the dashboard.</li>
-        <li><strong>Preview Settings:</strong> Customize the document preview.</li>
-        <li><strong>New Create:</strong> Start a new direct purchase.</li>
-        <li><strong>Edit:</strong> Modify the document (before approval only).</li>
-        <li><strong>Delete:</strong> Remove the document.</li>
-        <li><strong>Print:</strong> Print the purchase record.</li>
-        <li><strong>Download:</strong> Export the document.</li>
-        <li><strong>Download Without Header and Footer:</strong> Export a clean version.</li>
-        <li><strong>Provisional Account Ledger: </strong> Accessible via the Go To button.</li>
-    </ul>
-</div>
+- **Back**: Return to the dashboard.
+- **Preview Settings**: Customize how the invoice will appear.
+- **New Create**: Start a new purchase invoice.
+- **Edit**: Modify the document (before approval).
+- **Delete**: Remove the document.
+- **Print**: Print the invoice.
+- **Download**: Export the invoice as a file.
+- **Download Without Header and Footer**: Export a clean version of the invoice.
+- **Provisional Account Ledger**: Access via the **Go To** button.
 
-### Approval Workflow
+---
 
-Action Button: Use the Approve option to finalize the purchase invoice. Once approved:
+## Approval Workflow
 
-<div style="text-align:left;">
-    <ul>
-        <li>The status changes from Draft to Approved.</li>
-        <li>The Approve button changes to Withdraw.</li>
-    </ul>
-</div>
+Once the invoice is ready:
 
-### Next Steps
+- **Approve**: Click **Approve** to finalize the invoice. After approval:
+  - The invoice status changes from **Draft** to **Approved**.
+  - The **Approve** button becomes a **Withdraw** button, allowing you to reverse the invoice if needed.
 
-After approving the Purchase Invoice, the next step is Making Payment.. 👉 [Learn More About Payment](<direct purchase.md>).
+---
+
+## Next Steps
+
+After the purchase invoice is approved, the next step is **Making Payment**. Learn more about making payments in the [Payment Guide](<direct%20purchase.md>).
+
+🎉 **Great job!** You've just created and processed a purchase invoice like a pro!
+
+---

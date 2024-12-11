@@ -1,50 +1,60 @@
 # Purchase By Supplier
 
-The Purchase By Supplier report provides insights into purchases categorized by supplier over a specific date range. This report is essential for tracking supplier-based transactions and analyzing purchase trends.
+The **Purchase By Supplier** report provides insights into purchases categorized by supplier over a specified date range. This report is essential for tracking supplier-based transactions and analyzing purchase trends effectively.
+
+---
 
 ## Accessing Purchase By Supplier
 
->     Navigate to Purchase > Report > Purchase By Supplier.
+### Step 1: Navigate to **Purchase > Report > Purchase By Supplier**
+
+> This opens the **Purchase By Supplier Dashboard**, displaying a detailed view of purchase data categorized by supplier.
 
 <img src="../../images/purchase by supplier dashboard.png" alt="purchase by supplier dashboard" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-The Purchase By Supplier report interface will be displayed.
+---
 
 ## Generating the Report
 
-### Steps to Generate:
+### Step 1: Select Date Range
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Select Book Date Range:</strong> Enter the From and To dates to filter the report within the desired period.</li>
-        <li>Click the Show button.</li>
-        <li>The report will display all purchase data for the selected date range.</li>
-    </ul>
-</div>
+- **From and To Dates**: Specify the start and end dates for the report. 
+- Click the **Show** button to apply the date filter.
+
+> This generates the report for the selected period, showcasing all purchases during that time.
 
 <img src="../../images/generated report.png" alt="generated report" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
+---
+
 ## Exporting Data
 
-### After generating the desired report:
+### Step 1: Select Data to Export
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Select Data to Export:</strong> Use the Select All checkbox to include all rows or manually select specific rows.</li>
-    </ul>
-</div>
+- Use the **Select All** checkbox to include all rows, or manually select specific rows for export.
 
 <img src="../../images/export option in purchase by supplier.png" alt="export option in purchase by supplier" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Choose Export Options:
+---
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Page Size:</strong> Select a suitable page size for export (e.g., A0, A1, A2, etc.).</li>
-        <li><strong>Shape:</strong> Choose between Landscape or Portrait orientation.</li>
-        <li><strong>Header/Footer:</strong> Enable the checkbox to remove headers and footers from the export if needed.</li>
-        <li><strong>Export Format:</strong> Click the export icon and choose the desired format:</li>
-            <ol>PDF: Downloads the report in PDF format.</ol>
-            <ol>Excel: Downloads the report as an Excel file.</ol>
-    </ul>
-</div>
+### Step 2: Choose Export Options
+
+- **Page Size**: Choose a suitable page size for export (e.g., A0, A1, A2).
+- **Shape**: Select the orientation for the page (Landscape or Portrait).
+- **Header/Footer**: Enable or disable headers and footers for the export.
+
+### Step 3: Export Format
+
+Click the export icon and select your preferred format:
+- **PDF**: Downloads the report in PDF format.
+- **Excel**: Downloads the report as an Excel file.
+
+---
+
+## Next Steps
+
+Once you’ve exported the report, you can analyze the data further, share it with your team, or use it to make informed purchasing decisions!
+
+🎉 **Congratulations!** You’ve successfully generated and exported your Purchase By Supplier report. Keep up the great work! 😊
+
+---

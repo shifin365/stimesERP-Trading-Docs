@@ -1,86 +1,76 @@
 # Purchase By Item
 
-The Purchase By Item report allows users to analyze purchases based on items, filtered by purchase type, date range, and supplier. This feature provides flexibility in generating specific reports for detailed insights.
+The **Purchase By Item** report allows users to analyze purchases based on items, filtered by purchase type, date range, and supplier. This feature provides flexibility in generating specific reports for detailed insights.
+
+---
 
 ## Accessing Purchase By Item
 
->     Navigate to Purchase > Report > Purchase By Item.
+> Navigate to **Purchase > Report > Purchase By Item**.
 
-The Purchase By Item report interface will appear with options for customization.
+This opens the **Purchase By Item Report Dashboard**, where you can customize the report as needed.
 
 <img src="../../images/purchase by item dashboard.png" alt="purchase by item dashboard" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
+---
+
 ## Generating Reports
 
-### Direct Purchase-Based Report
+### **Direct Purchase-Based Report**
 
 #### Steps to Generate:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Select Book Date Range:</strong> Specify the From and To dates for the report.</li>
-        <li>Enable the checkbox Is Direct Purchase to focus on direct purchases.</li>
-        <li>Click the Show button to generate the report.</li>
-    </ul>
-</div>
+1. **Select Book Date Range**: Specify the "From" and "To" dates for the report.
+2. **Enable "Is Direct Purchase"**: Focus on direct purchases by checking this box.
+3. **Click "Show"**: Generate the report based on your selections.
 
 <img src="../../images/purchase by item Direct Purchase-Based Report.png" alt="purchase by item Direct Purchase-Based Report" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 #### Additional Filter:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>By Supplier:</strong> Select a supplier from the dropdown and click Show to filter the direct purchase data by supplier.</li>
-    </ul>
-</div>
+You can refine the data further:
+
+- **By Supplier**: Select a supplier from the dropdown and click **Show** to filter the report by that supplier.
 
 <img src="../../images/purchase by item Direct Purchase-Based Report Additional Filter.png" alt="Direct Purchase-Based Report Additional Filter" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Purchase Invoice-Based Report
+---
+
+### **Purchase Invoice-Based Report**
 
 #### Steps to Generate:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Select Book Date Range:</strong> Specify the From and To dates for the report.</li>
-        <li>Enable the checkbox Is Purchase Invoice to focus on purchase invoices.</li>
-        <li>Click the Show button to generate the report.</li>
-    </ul>
-</div>
+1. **Select Book Date Range**: Set the "From" and "To" dates.
+2. **Enable "Is Purchase Invoice"**: Focus on purchase invoices by enabling this option.
+3. **Click "Show"**: Generate the report.
 
 <img src="../../images/purchase by item Purchase Invoice-Based Report.png" alt="purchase by item Purchase Invoice-Based Report" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 #### Additional Filter:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>By Supplier:</strong> Select a supplier from the dropdown and click Show to filter the purchase invoice data by supplier.</li>
-    </ul>
-</div>
+- **By Supplier**: Choose a supplier to filter the data by that supplier and click **Show**.
+
+---
 
 ## Exporting Data
 
 ### After generating the desired report:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Select Data to Export:</strong> Use the Select All checkbox to include all data or manually select specific rows.</li>
-    </ul>
-</div>
+1. **Select Data to Export**: Use the **Select All** checkbox to include all data, or manually select specific rows.
 
 <img src="../../images/export icon in purchase by item.png" alt="export icon in purchase by item" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### Choose Export Options:
 
+1. **Page Size**: Choose a page size (e.g., A0, A1, A2, etc.).
+2. **Shape**: Select between **Landscape** or **Portrait** orientation.
+3. **Header/Footer**: Toggle the checkbox to remove headers and footers.
+4. **Export Format**: Choose the export format:
+   - **PDF**: Download the report in PDF format.
+   - **Excel**: Export the report as an Excel file.
+
 <img src="../../images/export button in export of purchase by item.png" alt="export button in export of purchase by item" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Page Size:</strong> Select a suitable page size for export (e.g., A0, A1, A2, etc.).</li>
-        <li><strong>Shape:</strong> Choose between Landscape or Portrait orientation.</li>
-        <li><strong>Header/Footer:</strong> Enable the checkbox to remove headers and footers from the export if needed.</li>
-        <li><strong>Export Format:</strong> Click the export icon and choose the desired format:</li>
-            <ol>PDF: Downloads the report in PDF format.</ol>
-            <ol>Excel: Downloads the report as an Excel file.</ol>
-    </ul>
-</div>
+---
+
+### 🎉 **Congratulations!** You've successfully generated and exported your **Purchase By Item** report. You’re now ready to analyze your data with ease!

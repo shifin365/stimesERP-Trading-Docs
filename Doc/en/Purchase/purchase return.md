@@ -4,56 +4,52 @@ A Purchase Return is a process where goods purchased from a supplier are returne
 
 ## Accessing Purchase Return
 
->     Navigate to Purchase > Purchase Return to access the Purchase Return dashboard.
+> Navigate to **Purchase > Purchase Return** to access the Purchase Return dashboard.
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Purchase Return Dashboard:</strong> The dashboard displays all purchase return records, categorized as Draft, Approved and if checkbox enabled Include WithDraw Data.</li>
-    </ul>
-</div>
+- **Purchase Return Dashboard**: The dashboard displays all purchase return records, categorized as Draft, Approved, and optionally with Withdrawn Data if the checkbox is enabled.
 
 <img src="../images/PR DASHBOARD.png" alt="PR DASHBOARD" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
+---
+
 ## Dashboard Features
 
-<h3>Filters</h3>
+### Filters
+Filter purchase return records using the **Search** option.
 
-Filter purchase return records using the Search option.
+### Export to Excel
+Export all records (Draft, Approved, or Withdrawn) to Excel using the **Export** option for quick reporting.
 
-<h3>Export to Excel</h3>
-
-Export all records (Draft, Approved, or Withdrawn) to Excel using the Export option.
+---
 
 ## Creating a New Purchase Return
 
-Click Create New: Use the Create New button in the top-right corner of the dashboard.
+Click **Create New**: Use the **Create New** button in the top-right corner of the dashboard to open the purchase return form.
 
 <img src="../images/PR CREATE NEW.png" alt="cPR CREATE NEW" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-When you click Create New, a form opens for entering purchase details. Below are the required fields and their configurations:
+---
 
-### Document Number Series
+### **Document Information**
 
-Configure the series through Document Series Settings. [Set Document Series](<../Purchase/direct_purchase.md>)
-
-### Date
-
-Select the date of the return.
+| Field                | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Document Number Series** | Configure through [Document Series Settings](<../Purchase/direct_purchase.md>)  |
+| **Date**             | Select the date of the return.                                               |
 
 <img src="../images/PR FIELDS.png" alt="PR FIELDS" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Supplier
+---
 
-Choose the supplier from whom the goods were purchased. Add suppliers through the Supplier Menu: [Add Suppliers](<direct purchase.md>)
+### **Supplier Selection**
 
-<div style="text-align:left;">
-    <ul>
-        <li>Click the Get button to retrieve purchase data.</li>
-        <li>Choose either Direct Purchase or GRN (Goods Receipt Note)</li>
-        <li><strong>GRN: </strong>Select the Record No. from the GRN. This will populate the details of the goods purchased against the supplier.</li>
-        <li><strong>Direct Purchase: </strong>Manually select and add items for return.</li>
-    </ul>
-</div>
+| Field            | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| **Supplier**     | Select the supplier from the dropdown. Add new suppliers via [Supplier Menu](<direct%20purchase.md>). |
+| **Get Button**   | Retrieve purchase data by selecting **Direct Purchase** or **GRN (Goods Receipt Note)**. |
+
+- **GRN**: Select the record number from the GRN. This will auto-populate the details.
+- **Direct Purchase**: Manually select and add items for return.
 
 <div style="display: flex; gap: 10px;">
   <img src="../images/PR DATA TAKING BASED ON DP OR GRN.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
@@ -61,133 +57,112 @@ Choose the supplier from whom the goods were purchased. Add suppliers through th
   <img src="../images/PR BASED ON ITEM UNDER RECORD NO.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
-### Items Section
+---
 
-Select the items to return by choosing them from the Record No. data. Enter the Quantity to return for each item. Specify the Store from which the stock is being returned.
+### **Item Details**
+
+Select the items to return and enter the quantity for each item. Specify the store from which the stock is being returned.
 
 <img src="../images/PR ITEM SECTION.png" alt="PR ITEM SECTION" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-### Additional Fields for Reference
+---
 
-<div style="text-align:left;">
-    <ul>
-        <li>Add a Reference Number</li>
-        <li>Provide a Statement Reference if applicable</li>
-    </ul>
-</div>
+### **Additional Fields for Reference**
 
-### Price Type
+| Field                | Description                                        |
+|----------------------|----------------------------------------------------|
+| **Reference Number** | Optional reference number.                        |
+| **Statement Reference** | Provide additional reference details, if needed. |
 
-Choose a price type, such as Wholesale, Retail, or Regular. Price types can be configured here: [Set Price Types](<direct purchase.md>)
+---
 
-### Payment Details
+### **Price Type**
 
-Select the Payment Type. Available modes include: Cash, Bank, Cheque, Credit. Configure payment types here: [Set Payment Types](<direct purchase.md>).
+Choose the price type (Wholesale, Retail, or Regular). Price types can be configured through [Price Types Settings](<direct purchase.md>).
+
+---
+
+### **Payment Details**
+
+Select the **Payment Type**:
+
+- **Cash**
+- **Bank**
+- **Cheque**
+- **Credit**
+
+Payment types can be configured via [Payment Types Settings](<direct purchase.md>).
 
 <img src="../images/PR PAYMENT TYPE.png" alt="PR PAYMENT TYPE" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
-<h3>Credit</h3>
+---
 
-Select Payment Term & Due Date options:
+### **Credit Payment Term**
 
-<div style="text-align:left;">
-    <ul>
-        <li>Due at the end of the next month</li>
-        <li>Due at the end of the month</li>
-        <li>Due on receipt</li>
-        <li>Custom dates</li>
-    </ul>
-</div>
+Choose a payment term and due date option:
 
-<h3>Cash</h3>
+- Due at the end of next month
+- Due at the end of the month
+- Due on receipt
+- Custom due date
 
-Configure:
+---
 
-Cost Center: 👉 [Set Cost Centers](<direct purchase.md>).
-Cash Account: 👉 [Set Cash Accounts](<direct purchase.md>).
-Cash Repository: 👉 [Set Cash Repository](<direct purchase.md>).
+### **Cash Payment Configuration**
 
-<h3>Cheque</h3>
+Set up **Cost Centers**, **Cash Accounts**, and **Cash Repositories** via the [Cost Centers](<direct purchase.md>), [Cash Accounts](<direct purchase.md>), and [Cash Repository](<direct purchase.md>) settings.
 
-Configure:
+---
 
-Cost Center: 👉 [Set Cost Centers](<direct purchase.md>).
-Bank: 👉 [Set Banks](<direct purchase.md>).
+### **Cheque Payment Configuration**
 
-Enter:
+Set up **Cost Centers** and **Bank** details. Enter the **Cheque Number** and **Cheque Date**.
 
-<div style="text-align:left;">
-    <ul>
-        <li>Cheque Number</li>
-        <li>Cheque Date</li>
-    </ul>
-</div>
+---
 
-<h3>Bank</h3>
+### **Bank Payment Configuration**
 
-Configure:
+Set up **Cost Centers** and **Bank** details. Enter the **Bank Posted Date**, **Instrument Code**, and **Bank Transaction Code**.
 
-Cost Center: 👉 [Set Cost Centers](<direct purchase.md>).
-Bank: 👉 [Set Banks](<direct purchase.md>).
-
-Enter:
-
-<div style="text-align:left;">
-    <ul>
-        <li>Bank Posted Date</li>
-        <li>Instrument Code</li>
-        <li>Bank Transaction Code</li>
-    </ul>
-</div>
+---
 
 ### Saving and Exporting
 
-Save the purchase return to generate its PDF. Available options in the Top Right Bar:
+After entering the purchase return details, you can save the document and export it:
 
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Back:</strong> Return to the dashboard.</li>
-        <li><strong>Preview Settings:</strong> Customize the document preview.</li>
-        <li><strong>Previous Preview:</strong> View previous document versions.</li>
-        <li><strong>New Create:</strong> Start a new purchase return.</li>
-        <li><strong>Edit:</strong> Modify the document (before approval only).</li>
-        <li><strong>Delete:</strong> Remove the document.</li>
-        <li><strong>Print:</strong> Print the purchase record.</li>
-        <li><strong>Download:</strong> Export the document.</li>
-        <li><strong>Download Without Header and Footer:</strong> Export a clean version.</li>
-    </ul>
-</div>
-
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Go To > Stock Ledger:</strong> View the stock movement ledger.</li>
-    </ul>
-</div>
-
-<div style="text-align:left;">
-    <ul>
-        <li><strong>Go To > Provisional Account Ledger:</strong> View account details.</li>
-    </ul>
-</div>
+- **Back**: Return to the dashboard.
+- **Preview Settings**: Customize the document preview.
+- **Previous Preview**: View previous document versions.
+- **New Create**: Start a new purchase return.
+- **Edit**: Modify the document (before approval only).
+- **Delete**: Remove the document.
+- **Print**: Print the purchase record.
+- **Download**: Export the document in various formats (with or without headers).
+- **Stock Ledger**: View the stock movement ledger.
+- **Provisional Account Ledger**: View account details.
 
 <div style="display: flex; gap: 10px;">
   <img src="../images/PR STOCK LEDGER.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
   <img src="../images/PR PROVISIONAL.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
-### Approval Workflow
+---
 
-Use the Action Button to Approve the Purchase Return. Once approved:
+### **Approval Workflow**
 
-<div style="text-align:left;">
-    <ul>
-        <li>The status changes from Draft to Approved.</li>
-        <li>The Approve button changes to Withdraw.</li>
-    </ul>
-</div>
+After completing the purchase return, click the **Approve** button to finalize the return.
+
+- The status changes from **Draft** to **Approved**.
+- Once approved, you can withdraw or edit the return.
 
 <img src="../images/PR PRINT.png" alt="PR PRINT" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+
+---
 
 ### Next Step
 
 After the Purchase Return is approved, proceed to update the stock or financial records accordingly.
+
+---
+
+🎉 **Congratulations!** You’ve successfully managed a Purchase Return with ease!
