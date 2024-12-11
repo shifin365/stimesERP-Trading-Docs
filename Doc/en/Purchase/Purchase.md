@@ -34,10 +34,10 @@ Clicking the **Purchase** button in the left-hand menu opens the **Purchase Modu
 
 ### **Sub-Modules**
 
-#### [Direct Purchase](Purchase/Purchase.md)
+#### [Direct Purchase](Purchase.md)
 Record purchases directly without creating a purchase order.
 
-#### [Purchase Order](<../Purchase/Purchase.md>)
+#### [Purchase Order](<Purchase.md>)
 Create and manage purchase orders for goods or services.
 
 #### [GRN (Goods Receipt Note)](<grn.md>)
