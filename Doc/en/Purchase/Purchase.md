@@ -40,10 +40,10 @@ Record purchases directly without creating a purchase order.
 #### [Purchase Order](<Purchase.md>)
 Create and manage purchase orders for goods or services.
 
-#### [GRN (Goods Receipt Note)](<grn.md>)
+#### [GRN (Goods Receipt Note)](purchase_order.md)
 Record and confirm the receipt of goods against purchase orders.
 
-#### [Purchase Invoice](<purchase_invoice.md>)
+#### [Purchase Invoice](<purchase_order.md>)
 Generate and manage invoices for completed purchases.
 
 #### [Landed Cost Voucher](<landed_cost_voucher.md>)
