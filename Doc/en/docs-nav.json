@@ -109,6 +109,10 @@
         {
           "text": "Customer",
           "path": "Sale/Customer.md"
+        },
+        {
+          "text": "Customer new",
+          "path": "Sale/Customer new.md"
         }
       ]
     },
