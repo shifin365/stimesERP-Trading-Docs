@@ -63,7 +63,7 @@ Quickly add a new customer by filling in their details.
 | **Customer Type**     | Choose from [Customer Type Settings](<direct_purchase.md>). |
 | **Customer Area**     | Select an existing area or create a new one.   |
 | **Company Name**      | Enter the customer's company name.             |
-| **Salesperson**       | Assign via [Salesperson Settings](Direct%20Sale.md). |
+| **Salesperson**       | Assign via [Salesperson Settings](stimesERP-Trading-Docs\Doc\en\Sale\Direct Sale.md). |
 | **Currency**          | Select the transaction currency.               |
 | **Email**             | Provide a valid email address.                 |
 | **Credit Limit**      | Set the maximum transaction limit.             |
