@@ -137,6 +137,10 @@
             {
               "text": "Sale By Customer",
               "path": "Sale/Reports/Sale By Customer.md"
+            },
+            {
+              "text": "Sale By Customer",
+              "path": "Sale/Reports/new.md"
             }
           ]
         }

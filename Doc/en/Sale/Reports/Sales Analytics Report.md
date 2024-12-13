@@ -24,7 +24,7 @@ You can choose to filter reports by:
 #### **a. Customer-wise Reports**
 - Additional Filters:
   - **Customer Name**: Select specific customer(s).
-  - **Customer Type**: Filter by type (e.g., Individual or Business).
+  - **Customer Type**: Filter by type (e.g., Regular).
   - **Customer Area**: Filter by geographical area.
   - **Salesperson**: Filter by assigned salesperson.
 
@@ -35,7 +35,7 @@ After clicking **Show**, the report will display the following fields:
 | **Customer**           | Name of the customer.                            |
 | **Phone Number**       | Contact number of the customer.                  |
 | **Salesperson**        | Salesperson handling the customer.               |
-| **Customer Type**      | Type of customer (e.g., Individual or Business). |
+| **Customer Type**      | Type of customer (e.g., Regular). |
 | **Customer Area**      | Geographical area of the customer.               |
 | **Invoice Count**      | Total number of invoices.                        |
 | **Invoice Amount**     | Total value of invoices.                         |
