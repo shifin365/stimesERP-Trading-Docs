@@ -143,6 +143,20 @@
       ]
     },
     {
+      "text": "Stock",
+      "path": "Stock/Item.md",
+      "items": [
+        {
+          "text": "Suppliers",
+          "path": "Purchase/Suppliers.md"
+        },
+        {
+          "text": "Customer",
+          "path": "Sale/Customer.md"
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/Chart of accounts.md",
       "items": [
