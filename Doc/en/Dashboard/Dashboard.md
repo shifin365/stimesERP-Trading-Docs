@@ -20,7 +20,7 @@ The Dashboard Module is the central hub of the ERP system, providing real-time i
 The Date Filter feature allows users to analyze data by specific timeframes for more focused insights.
 
 **Example:**
-- Shifin selects a **Date** to filter and view the total sales and payments for the month of **specific period**.
+- Shifin selects a **Date** to filter and view the total sales and payments for the **specific period**.
 
 <img src="../images/Date Filters.png" alt="Date Filters" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
