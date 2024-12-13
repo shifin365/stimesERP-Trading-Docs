@@ -133,4 +133,5 @@ The dashboard is fully customizable. Administrators can make adjustments by ente
   <img src="../images/customize Dashboard 1.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
   <img src="../images/customize Dashboard 2.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
+
 *Shifin tailors the Dashboard to focus on relevant business metrics.*  
