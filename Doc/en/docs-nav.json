@@ -109,6 +109,16 @@
         {
           "text": "Customer",
           "path": "Sale/Customer.md"
+        },
+        {
+          "text": "Reports",
+          "path": "Sale/Reports/Sales & Receipts Report.md",
+          "items": [
+            {
+              "text": "Sales & Receipts Report",
+              "path": "Sale/Reports/Sales & Receipts Report.md"
+            }
+          ]
         }
       ]
     },
