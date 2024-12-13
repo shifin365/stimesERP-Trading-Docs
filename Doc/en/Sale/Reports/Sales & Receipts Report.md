@@ -16,6 +16,8 @@ Follow these steps to generate your report:
 ### **Step 1: Set the Date Range**
 - Use the **Start Date** and **End Date** fields to select the desired timeframe for your report.
 
+<img src="../../images/sales and receipt.png" alt="sales and receipt" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+
 ### **Step 2: Apply Filters**
 You can refine your report by:
 - **Customer**: Select a specific customer from the dropdown.
@@ -44,13 +46,12 @@ You can refine your report by:
    | Net Receipt Amount   | Final receipt amount after discounts.         |
    | Due Amount           | Remaining amount due.                         |
 
-<div style="display: flex; gap: 10px;">
-  <img src="../images/taxable customer creation.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
-  <img src="../images/tax exempt customer.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
-</div>
+<img src="../../images/sales and receipt report.png" alt="sales and receipt report" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### **Step 4: Export to Excel**
 - Click the **Export to Excel** button to download the report in Excel format for further analysis or sharing.
+
+<img src="../../images/export to excel.png" alt="export to excel" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ---
 
