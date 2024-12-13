@@ -117,6 +117,26 @@
             {
               "text": "Sales & Receipts Report",
               "path": "Sale/Reports/Sales & Receipts Report.md"
+            },
+            {
+              "text": "Sales Analytics Report",
+              "path": "Sale/Reports/Sales Analytics Report.md"
+            },
+            {
+              "text": "Daily Collections Report",
+              "path": "Sale/Reports/Daily Collections Report.md"
+            },
+            {
+              "text": "Sales Return Summary Report",
+              "path": "Sale/Reports/Sales Return Summary Report.md"
+            },
+            {
+              "text": "Sale By Item Report",
+              "path": "Sale/Reports/Sale By Item Report.md"
+            },
+            {
+              "text": "Sale By Customer",
+              "path": "Sale/Reports/Sale By Customer.md"
             }
           ]
         }
