@@ -137,6 +137,30 @@
             {
               "text": "Sale By Customer",
               "path": "Sale/Reports/Sale By Customer.md"
+            },
+            {
+              "text": "Sales Overdue Report",
+              "path": "Sale/Reports/Sales Overdue Report.md"
+            },
+            {
+              "text": "Order To Be Settled Report",
+              "path": "Sale/Reports/Order To Be Settled Report.md"
+            },
+            {
+              "text": "Sale Person Wise Report",
+              "path": "Sale/Reports/Sale Person Wise Report.md"
+            },
+            {
+              "text": "Customer Area Wise Report",
+              "path": "Sale/Reports/Customer Area Wise Report.md"
+            },
+            {
+              "text": "Non Billing Customer Report",
+              "path": "Sale/Reports/Non Billing Customer Report.md"
+            },
+            {
+              "text": "Delivery Person Wise Report",
+              "path": "Sale/Reports/Delivery Person Wise Report.md"
             }
           ]
         }
