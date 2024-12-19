@@ -58,9 +58,18 @@ Here, you will select the item type and enter basic information.
    - **Unit**: Select from available units or create a new one using 👉 [Unit](<direct_purchase.md>).
    - **Brand**: Select brand from dropdown or you can create using 👉 [Brand](<direct_purchase.md>).
    - **Kit Type**: If this is a kit, check the **Is Kit** checkbox. You will then be able to select the items for this kit, along with quantity and price.
+
+<img src="../images/ISKIT IN ITEM.png" alt="ISKIT IN ITEM" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+
    - **Cost Price**: Enter the cost price of the item.
    - **Selling Price**: Enter the selling price. If there are multiple price points (e.g., retail, wholesale), click the **Add** button to enter different prices.
      - **Price Type**: Select **Retail** or **Wholesale** and enter the price.
+
+  <div style="display: flex; gap: 10px;">
+  <img src="../images/MULTIPLE SELLING PRICE IN ITEMZ ADD BUTTON.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../images/MULTIPLE SELLING PRICE IN ITEM.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+</div>
+
    - **Default Discount**: If applicable, check the **Is Default Discount** checkbox and specify the discount value (in percentage and amount).
    - **Preferred Supplier**: Select or create a supplier using 👉 [supplier](<direct_purchase.md>).
    - **Lead Time in Days**: Enter the lead time.
@@ -126,7 +135,7 @@ Here, you will select the item type and enter basic information.
 - Follow similar steps as for Goods.
 - Add a **Barcode**, **Item Code**, **Item Name**, and **Description**.
 - **Item Type**: Select whether it's **Manufacture**, **General**, or **Component**.
-- Set the **Unit**, **Brand**, **Cost Price**, and **Selling Price** (same as for goods).
+- Set the **Unit**, **Cost Price**, and **Selling Price** (same as for goods).
 - Under the **Tax** tab, set whether the item is taxable or non-taxable, and provide necessary tax details.
 - Under the **Alternate UOM** tab, add any alternate UOM if applicable.
 
