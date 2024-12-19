@@ -168,8 +168,12 @@
     },
     {
       "text": "Stock",
-      "path": "Stock/Item.md",
+      "path": "Stock/Items.md",
       "items": [
+        {
+          "text": "Items",
+          "path": "Stock/Items.md"
+        },
         {
           "text": "Suppliers",
           "path": "Purchase/Suppliers.md"
