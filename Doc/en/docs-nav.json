@@ -181,6 +181,10 @@
         {
           "text": "Customer",
           "path": "Sale/Customer.md"
+        },
+        {
+          "text": "Stock Transfer",
+          "path": "Stock/Stock Transfer.md"
         }
       ]
     },
