@@ -11,6 +11,8 @@ You can easily access this feature and perform tasks such as bulk import or manu
 1. Navigate to **Stock > Opening Stock**.
 2. You will see the **Opening Stock Dashboard**, displaying all existing opening stock records.
 
+<img src="../images/opening stock dashboard.png" alt="opening stock dashboard" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+
 ---
 
 ## **Creating Opening Stock**
@@ -26,6 +28,8 @@ If you want to import multiple records at once:
    - Click **Download Sample Data**.
    - Fill in your stock details in the downloaded file.
 4. Upload the completed file using the **Import Excel** option.
+
+<img src="../images/import opening stock.png" alt="import opening stock" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### **Manual Entry**
 To create an opening stock entry manually:
@@ -44,6 +48,8 @@ To create an opening stock entry manually:
    - **Reference Number**: Enter a reference for tracking purposes.
    - **Statement Reference**: Add notes for internal reference.
 3. Click **Save** to finalize the entry.
+
+<img src="../images/create new opening stock.png" alt="create new opening stock" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ---
 

@@ -183,6 +183,10 @@
           "path": "Sale/Customer.md"
         },
         {
+          "text": "Opening Stock",
+          "path": "Stock/Opening Stock.md"
+        },
+        {
           "text": "Stock Transfer",
           "path": "Stock/Stock Transfer.md"
         }
