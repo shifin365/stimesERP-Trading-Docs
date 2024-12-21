@@ -189,6 +189,10 @@
         {
           "text": "Stock Transfer",
           "path": "Stock/Stock Transfer.md"
+        },
+        {
+          "text": "Stock Adjustment",
+          "path": "Stock/Stock Adjustment.md"
         }
       ]
     },
