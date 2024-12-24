@@ -193,6 +193,24 @@
         {
           "text": "Stock Adjustment",
           "path": "Stock/Stock Adjustment.md"
+        },
+        {
+          "text": "Reports",
+          "path": "Stock/Reports/Current Stocks.md",
+          "items": [
+            {
+              "text": "Current Stocks",
+              "path": "Stock/Reports/Current Stocks.md"
+            },
+            {
+              "text": "Stock List Report",
+              "path": "Stock/Reports/Stock List Report.md"
+            },
+            {
+              "text": "Stock By Store Report",
+              "path": "Stock/Reports/Stock By Store Report.md"
+            }
+          ]
         }
       ]
     },
