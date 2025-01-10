@@ -60,7 +60,7 @@ Quickly add a new customer by filling in their details.
 |-----------------------|-------------------------------------------------|
 | **Customer Code**     | Auto-generated.                                |
 | **Customer Name**     | Enter the full name of the customer.           |
-| **Customer Type**     | Choose from [Customer Type Settings](<direct_purchase.md>). |
+| **Customer Type**     | Choose from [Customer Type Settings](<../Basic Setup/Customer Type Settings.md>). |
 | **Customer Area**     | Select an existing area or create a new one.   |
 | **Company Name**      | Enter the customer's company name.             |
 | **Salesperson**       | Assign via [Salesperson Settings](stimesERP-Trading-Docs\Doc\en\Sale\Direct Sale.md). |
