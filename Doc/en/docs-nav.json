@@ -9,6 +9,16 @@
       "path": "Dashboard/Dashboard.md"
     },
     {
+      "text": "Basic Setup",
+      "path": "Basic Setup/Basic Setup.md",
+      "items": [
+        {
+          "text": "Customer Type",
+          "path": "Basic Setup/Customer Type Settings.md"
+        }
+      ]
+    },
+    {
       "text": "Administration",
       "path": "administration/Organization Units.md",
       "items": [
