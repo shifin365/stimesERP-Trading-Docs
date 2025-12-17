@@ -231,6 +231,10 @@
         {
           "text": "Chart of accounts",
           "path": "accounts/Chart of accounts.md"
+        },
+        {
+          "text": "Bank Accounts",
+          "path": "accounts/Bank Accounts.md"
         }
       ]
     }
